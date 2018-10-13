@@ -1,2 +1,2 @@
-# GKRK
-### Smart Attendance System (SAS)
+# SMART ATTENDANCE SYSTEM (SAS)
+### By Team GKRK
